@@ -4,6 +4,9 @@ title:  "슬아의 팬 블로그!"
 date:   2020-04-13 17:39:29 +0900
 categories: jekyll update
 ---
+이 블로그는 굉장히 위험한 곳입니다.
+슬아의 빵뎅이는 한번 빠지면 절대로 빠져나올 수 없기 때문이죠.
+주의 하세요.
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
