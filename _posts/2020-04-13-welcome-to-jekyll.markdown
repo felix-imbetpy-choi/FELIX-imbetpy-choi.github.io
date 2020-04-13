@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "슬아의 팬 블로그!"
 date:   2020-04-13 17:39:29 +0900
 categories: jekyll update
 ---
