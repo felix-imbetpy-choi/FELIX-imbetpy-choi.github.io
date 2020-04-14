@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               슬아짜응 내 사랑을 받아달라능 쿰척쿰척 개미핥핥 츄룹
+title:               김시허니 짱짱맨 블로그
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -22,8 +22,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
+  name:              FELIX-imbetpy-choi
+  email:             imbetpy2025@naver.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
