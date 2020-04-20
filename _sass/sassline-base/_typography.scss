@@ -233,9 +233,9 @@ a {
     font-weight: map-get($bodytype, bold);
   }
 
-  // Source Sans Pro.
-  em, i, .Source Sans Pro {
-    font-style: map-get($bodytype, Source Sans Pro);
+  // Italic.
+  em, i, .italic {
+    font-style: map-get($bodytype, italic);
   }
 
   // Caption and inline small text.
@@ -271,7 +271,7 @@ a {
 
     p {
       border-left: 0.15rem solid $linkColour;
-      font-style: map-get($bodytype, Source Sans Pro);
+      font-style: map-get($bodytype, italic);
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
