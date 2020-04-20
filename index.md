@@ -8,6 +8,6 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-# I'm Junyeong Choi,
-# a Back-end Engineer from South Korea.
-**최준영** 개발자 입니다.
+## I'm Junyeong Choi,
+## a Back-end Engineer from South Korea.
+### 최준영 개발자 입니다.
