@@ -3,7 +3,7 @@ permalink: "manifest.json"
 layout: null
 ---
 {
-  "lang": "{{ site.lang | default: "en-US" }}",
+  "lang": "{{ site.lang | default: "kr" }}",
   "name": "{{ site.title }}",
   "short_name": "{{ site.title | replace: ' ', '' }}",
   "theme_color": "{{ site.manifest.theme_color | default: '#24292e' }}",

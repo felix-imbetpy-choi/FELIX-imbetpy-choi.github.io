@@ -62,6 +62,7 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Korea/incheon # Timezone for blog posts and alike
 
 # 5. Collections
+# blog page setting
 collections:
   posts:
     title: Posts # Needed for Siteleaf
