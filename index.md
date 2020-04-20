@@ -1,5 +1,4 @@
 ---
-# -->Home page title
 title: FELIX IMBETPY CHOI 
 feature_text: |
 Tempus est optimus index
