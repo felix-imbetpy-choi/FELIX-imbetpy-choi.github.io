@@ -1,7 +1,7 @@
 ---
-title: "슬아의 엉덩이는 왜 탐스러울까?" 대한 철학적 고찰.
+title: seoul
 categories:
-- 엉덩이탐정
+- kkk
 excerpt: |
   A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
