@@ -1,5 +1,5 @@
 ---
-title: seoul
+title: 설아
 categories:
 - kkk
 excerpt: |
