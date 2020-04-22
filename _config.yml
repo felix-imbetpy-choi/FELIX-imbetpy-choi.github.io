@@ -67,8 +67,8 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
+    # feature_text: | 
+    #   Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -83,9 +83,9 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ko # Set the site language
 title: "SHINING JUNYEONG" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://felix-imbetpy-choi.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/FELIX-imbetpy-choi/FELIX-imbetpy-choi.github.io"
 email: "imbetpy2025@naver.com"
