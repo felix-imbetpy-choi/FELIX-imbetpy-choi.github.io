@@ -2,7 +2,7 @@
 title: 설아
 categories:
 - General
-excerpt: |
+excerpt: | #목록에서 보이는 글의 초입
   A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
   ## The Pot Still
@@ -12,6 +12,10 @@ feature_image: "/assets/img/content1.jpg"
 aside: true
 comments: true
 ---
+안녕 넌 지금 한글이 작성되니? 
+내가 인코딩 값을 변경해 주었지만 너는 바로바로 변경이 되지 않는구나 언제까지 어깨춤을 추게 할꺼니
+년석아?
+하하하하하하하하하 내가 혼쭐을 내줄꺼야 이녀석
 
 # Heading 1
 
