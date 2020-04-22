@@ -229,7 +229,7 @@
         } else if (this._bodyBlob && this._bodyBlob.type) {
           this.headers.set('content-type', this._bodyBlob.type)
         } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
-          this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=UTF-8')
+          this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=EUC-KR')
         }
       }
     }
