@@ -81,7 +81,7 @@ defaults:
 
 # 7. Site settings
 encoding: EUC-KR # Make sure the encoding is right
-lang: ko # Set the site language
+lang: ko-KR # Set the site language
 title: "SHINING JUNYEONG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
