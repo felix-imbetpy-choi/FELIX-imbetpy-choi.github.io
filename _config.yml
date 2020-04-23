@@ -86,7 +86,7 @@ title: "SHINING JUNYEONG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://felix-imbetpy-choi.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://felix-imbetpy-choi.github.io/"
+baseurl: ""
 repo: "https://github.com/FELIX-imbetpy-choi/FELIX-imbetpy-choi.github.io"
 email: "imbetpy2025@naver.com"
 disqus: "disqus_5AUFfKHSll" # Blog post comments, uncomment the option and set the site ID from your Disqus account
