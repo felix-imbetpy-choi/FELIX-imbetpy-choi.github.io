@@ -11,6 +11,7 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 comments: true
 ---
+
 ### < 목차 >
 1. 마크다운이란?  
 2. 마크다운 문법  
@@ -64,16 +65,3 @@ h1부터 h6까지 표현할 수 있으며, # 의 개수로 표현 가능합니�
 ###### 3장 <a id="chapter-3"></a>
 3장의 내용은.....
 
-
-| 값 | 의미 | 기본값 |
-|---|:---:|---:|
-| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `relative` | 요소 자신을 기준으로 배치 |  |
-| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
-| `fixed` | 브라우저 창을 기준으로 배치 |  |
-
-
-```markdown
-No language indicated, so no syntax highlighting. 
-But let's throw in a tag.
-```
