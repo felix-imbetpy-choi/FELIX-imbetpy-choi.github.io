@@ -23,14 +23,14 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Source Sans Pro", serif',
+  font-family: '"Source Sans Pro", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: '"Source Sans Pro", serif',
+  font-family: '"Source Sans Pro", sans-serif',
   regular: 400,
   cap-height: 0.68
 ) !default;
@@ -38,3 +38,8 @@ $monospacetype: (
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700");
+
+// font-family 정의
+$san-serif: "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;	$san-serif: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
+$serif: "Nanum Myeongjo",sans-serif;	$serif: "Nanum Myeongjo",sans-serif;
+$source: 'Source Sans Pro', sans-serif;	$source: 'Source Sans Pro', sans-serif;
