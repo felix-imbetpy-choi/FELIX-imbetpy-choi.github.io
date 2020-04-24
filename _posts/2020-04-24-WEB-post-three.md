@@ -2,6 +2,7 @@
 title: [마크다운◽MarkDown] 간단히 정복하기.
 categories:
 - WEB
+- Language
 excerpt: |
   
 feature_text: |
