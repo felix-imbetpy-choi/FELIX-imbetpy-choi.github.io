@@ -7,7 +7,7 @@ excerpt: |
   
 feature_text: |
   
-feature_image: "assets/img/content1.jpg"
+feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
 comments: true
