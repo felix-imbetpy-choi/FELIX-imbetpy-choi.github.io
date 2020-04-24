@@ -2,12 +2,12 @@
 title: [마크다운◽MarkDown] 간단히 정복하기.
 categories:
 - WEB
-- Language
 excerpt: |
-  
+  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
-  
-feature_image: "assets/img/content1.jpg"
+  ## The Pot Still
+  The modern pot still is a descendant of the alembic, an earlier distillation device
+feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
 comments: true
