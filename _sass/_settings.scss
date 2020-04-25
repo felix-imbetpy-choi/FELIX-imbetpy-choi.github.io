@@ -30,7 +30,7 @@ $headingtype: (
 ) !default;
 
 $monospacetype: (
-  font-family: '"Source Sans Pro", sans-serif',
+  font-family: '"Source Sans Pro", monospace',
   regular: 400,
   cap-height: 0.68
 ) !default;
@@ -40,6 +40,6 @@ $monospacetype: (
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700");
 
 // font-family 정의
-$san-serif: "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;	$san-serif: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
+$san-serif: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
 $serif: "Nanum Myeongjo",sans-serif;	$serif: "Nanum Myeongjo",sans-serif;
 $source: 'Source Sans Pro', sans-serif;	$source: 'Source Sans Pro', sans-serif;
