@@ -48,7 +48,7 @@ google_analytics:    UA-164053809-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    disqus_FELIX_CHOI
+disqus_shortname: disqus_FELIX_CHOI
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020.04. by IMBetpy-FELIX-CHOI'
