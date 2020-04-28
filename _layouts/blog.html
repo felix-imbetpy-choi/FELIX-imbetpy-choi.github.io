@@ -1,34 +1,9 @@
 ---
-layout: default
+layout: base
 ---
 
-{% include site-header.html %}
+{% for post in paginator.posts %}
+  {% include post.html post=post link_title=true excerpt=true %}
+{% endfor %}
 
-<main class="main  container">
-
-  <div class="content">
-
-    <article class="article  article--page  typeset">
-
-      {% if paginator.posts %}
-        {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-        <h1>{{ collectiondata.title }}</h1>
-        {{ collectiondata.description | markdownify }}
-
-      {% else %}
-        <h1>{{ page.title }}</h1>
-        {{ content }}
-        
-      {% endif %}
-
-    </article>
-
-    {% include post-list.html %}
-
-  </div>
-
-  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
-
-</main>
-
-{% include site-footer.html %}
+{% include pagination.html %}
