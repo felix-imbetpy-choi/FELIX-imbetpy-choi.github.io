@@ -1,6 +1,6 @@
 ---
 layout: about
-title: IMBETPY-FELIX-CHOI
+title: About
 menu: true
 order: 10
 ---
