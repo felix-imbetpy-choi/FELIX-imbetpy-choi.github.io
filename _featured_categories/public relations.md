@@ -1,7 +1,7 @@
 ---
 layout: list
-title: EnvOps
-slug: envops
+title: Public Relations
+slug: PR
 menu: true
 submenu: false
 order: 2
