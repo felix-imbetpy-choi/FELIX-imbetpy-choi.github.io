@@ -15,7 +15,7 @@ order: 10
 
 ---
 
-## Interest Skills  
+## 🌎 Interest Skills  
 1. Full-stack Web Development  
 2. APP Development  
 3. Data analytics  
@@ -24,13 +24,13 @@ order: 10
 
 ---
 
-## Available My Skills & Role
+## ✍🏼 Available My Skills & Role
 * Back-end Development - JAVA, Spring Framework, PHP, SQL, Github, Docker  
 * Data analytics - R, Python  
 
 ---
 
-## About blog
+## 📕 About blog
 * Github pages & Jekyll 을 통해 블로그를 운영합니다. 
 * 개인적으로 운영하는 블로그 입니다. 
 * 경험하거나 학습한 내용을 정리합니다.
