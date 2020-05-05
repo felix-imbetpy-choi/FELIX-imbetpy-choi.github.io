@@ -4,5 +4,5 @@ title: Git
 slug: git
 category: computer science
 menu: false
-order: 4
+order: 1
 ---
