@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Git
 slug: git
-category: computer science
+category: cs
 menu: false
 order: 1
 ---

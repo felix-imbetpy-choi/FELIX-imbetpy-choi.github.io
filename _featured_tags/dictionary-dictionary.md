@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Dictionary
-slug: PR
+slug: dictionary
 category: dictionary
 menu: false
 order: 1
