@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[Goal] 한걸음 한걸음, 데이터 과학자(Data Scientist)가 되는 방법"
+title:  "[Git] 한걸음 한걸음, 데이터 과학자(Data Scientist)가 되는 방법"
 subtitle:   "The Way to become a data scientist step by step"
-categories: dev
-tags: competition how to become data scientist 데이터 사이언티스트 과학자
+categories: cs
+tags: what is git ? version management
 comments: true
 ---
 ## 개요
