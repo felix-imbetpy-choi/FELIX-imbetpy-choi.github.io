@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Dev
-slug: dev
+title: Computer Science
+slug: computer science
 menu: true
 submenu: true
 order: 3
