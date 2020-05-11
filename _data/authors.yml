@@ -8,7 +8,7 @@ felix-imbetpy-choi:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    기록, 기록 또 기록
+    이어서, 마침. 다음글
 
   # This photo will be used in the about section
   picture:
