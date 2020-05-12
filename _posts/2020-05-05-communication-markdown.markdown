@@ -416,7 +416,7 @@ jeklly 을 통해 작성하는 첫 글 입니다.
 
 
 # 참고📚
-- https://gist.github.com/ihoneymon/652be052a0727ad59601
+- <https://gist.github.com/ihoneymon/652be052a0727ad59601>
 
 <br/>
 <br/>
