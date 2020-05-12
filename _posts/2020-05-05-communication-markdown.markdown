@@ -232,9 +232,11 @@ public static void main(String[] args) {
 ```
 
 💻 결과값 Console  
+
 ```
 백택3개 이상(```)을 위,아래에 작성하면 코드블럭이 만들어진다.
 ```
+
 ```java
 public static void main(String[] args) {
 
@@ -252,20 +254,21 @@ public static void main(String[] args) {
 <br/>
 -----
 
+
 ## 6. 링크(Link)
-클릭 시 다른페이지로 이동하며, 3가지 다른 유형이 존재합니다.
+클릭 시 다른 페이지로 이동하며, 3가지 다른 유형이 존재합니다.
 
 ✏️ 마크다운 CODE
 ```
-<유형1>  
+(유형1)  
 `링크제목 지정` : 
 [네이버](https://felix-imbetpy-choi.github.io/ "설명어")  
 
-<유형2>  
+(유형2) 
 `링크URL 노출` : <https://felix-imbetpy-choi.github.io/> 
 
-<유형3>  
-`동일파일 링크(목차)` : [목차](##개요)  
+(유형3) 
+`동일파일 링크(목차)` : [목차](##개요) 
 ```
 
 > __`<유형3> 문단 링크 방법`__  
@@ -279,20 +282,22 @@ public static void main(String[] args) {
 
 💻 결과값 Console  
 
-<유형1>  
+
+(유형1)  
 `링크제목 지정` : 
-[네이버](https://felix-imbetpy-choi.github.io/ "설명어")  
+[네이버](https://felix-imbetpy-choi.github.io "설명어")  
 
-<유형2>  
-`링크URL 노출` : <https://felix-imbetpy-choi.github.io/> 
+(유형2)   
+`링크URL 노출` : <https://felix-imbetpy-choi.github.io> 
 
-<유형3>  
-`동일파일 링크(목차)` : [목차](##개요) 
+(유형3)   
+`동일파일 링크(목차)` : [목차](##개요)  
 
 
 <br/>
 <br/>
 -----
+
 
 
 ## 7. 이미지(Image)
@@ -302,25 +307,25 @@ public static void main(String[] args) {
 
 ✏️ 마크다운 CODE
 ```
-<유형1> 이미지 삽입
-![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg "인공지능")
+(유형1) 이미지 삽입
+![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg "냐옹이")
   
-<유형2> 이미지 사이즈 조절
+(유형2) 이미지 사이즈 조절
 <img src="https://topclass.chosun.com/news_img/1807/1807_008.jpg" width="300" height="200"> 
 
-<유형3> 이미지 링크
+(유형3) 이미지 링크
 [![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg)](https://felix-imbetpy-choi.github.io/)  
 ```
 
 💻 결과값 Console  
 
-<유형1> 이미지 삽입  
-![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg "인공지능")
+(유형1) 이미지 삽입
+![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg "냐옹이")
   
-<유형2> 이미지 사이즈 조절  
-<img src="https://topclass.chosun.com/news_img/1807/1807_008.jpg" width="300" height="500"> 
+(유형2) 이미지 사이즈 조절
+<img src="https://topclass.chosun.com/news_img/1807/1807_008.jpg" width="300" height="200"> 
 
-<유형3> 이미지 링크  
+(유형3) 이미지 링크
 [![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg)](https://felix-imbetpy-choi.github.io/)  
 
 
@@ -329,54 +334,4 @@ public static void main(String[] args) {
 -----
 
 
-
-## Markdown 문법2(유용한 부가기능)  
----
-이 Chapter에서 배울 것들은 위의 기능보다는 사용 빈도가 낮지만 굉장히 고차원 적인 표현을 가능하게 해주는 매우 유용한 문법들이다. 필요할 때마다 참고하여 익히면 큰 도움이 될 것이다.  
-
----
-*  __[1단계] `표(Table)` : 표 그리기__  
-  
-```
-|                  | 수학                        | 평가              |  
-|:--- | ---: | :---: |  
-| 철수             | 90            | 참잘했어요. |  
-| 영희           | 50            | 분발하세요. |
-```
-  
-|                  | 수학                        | 평가              |  
-|:--- | ---: | :---: |  
-| 철수             | 90            | 참잘했어요. |  
-| 영희           | 50            | 분발하세요. |
-  
-> * 라인 단위로 생각하면서 구분자(`|`)로 열을 구분해주면 위와 같이 대충 그려도 알아서 예쁘게 완성된다.  
-> * 헤더(머리글)를 분리하고 싶은 경우, 위 예제와 같이 2번째 라인에 `---`을 사용하면 된다.
-> * 정렬이 필요한 경우, 콜론(`:`) 기호를 구분선(`---`) 왼쪽, 오른쪽, 양쪽에 배치한다.      
-   
----
-*  __[2단계] `수식` : 수학, 논문분석 등에 사용__  
-  
-```
-$$f(x)= if x < x_{min} : (x/x_{min})^a$$  
-$$otherwise : 0$$  
-$$P(w)=U(x/2)(7/5)/Z$$  
-$$p_{\theta}(x) = \int p_{\theta}(2z)p_{\theta}(y\mid k)dz$$  
-$$x = argmax_k((x_t-x_u+x_v)^T*x_m)/(||x_b-x_k+x_l||)$$  
-```
-
-$$f(x)= if x < x_{min} : (x/x_{min})^a$$  
-$$otherwise : 0$$  
-$$P(w)=U(x/2)(7/5)/Z$$  
-$$p_{\theta}(x) = \int p_{\theta}(2z)p_{\theta}(y\mid k)dz$$  
-$$x = argmax_k((x_t-x_u+x_v)^T*x_m)/(||x_b-x_k+x_l||)$$  
-  
-
-
-* __`무료 이미지` 제공 Site__   
-  도저히 개인 실력으로 만들 수 없는 고급 퀄리티 이미지는 아래 무료로 제공하는 사이트를 이용하자.
-  + <https://pixabay.com/>
-  + <https://morguefile.com/>
-  + <http://gratisography.com/>
-  + <https://unsplash.com/>
-  + <http://littlevisuals.co/> 
 
