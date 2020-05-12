@@ -26,7 +26,7 @@ header-img: https://steemitimages.com/DQmZoxt18AetawkUVcZX24CZbde9rgQ9gnX1xWFUXT
 
 <br/>
 <br/>
------
+---
 
 
 # 마크다운의 장점과 한계
@@ -50,7 +50,7 @@ header-img: https://steemitimages.com/DQmZoxt18AetawkUVcZX24CZbde9rgQ9gnX1xWFUXT
 
 <br/>
 <br/>
------
+---
 
 
 # 📌 마크다운 작성법 
@@ -80,7 +80,7 @@ header-img: https://steemitimages.com/DQmZoxt18AetawkUVcZX24CZbde9rgQ9gnX1xWFUXT
 
 <br/>
 <br/>
------
+---
 
 
 ## 2. 목록(List)
@@ -122,7 +122,7 @@ Tab 이나 스페이스바를 이용하여 들여쓰기가 가능합니다.
 
 <br/>
 <br/>
------
+---
 
 
 ## 3. 인용문(Quote)
@@ -151,7 +151,7 @@ Tab 이나 스페이스바를 이용하여 들여쓰기가 가능합니다.
 
 <br/>
 <br/>
------
+---
 
 
 ## 4. 폰트스타일 & 줄바꿈
@@ -203,7 +203,7 @@ __볼드구역 *이탤릭구역* 볼드구역__
 
 <br/>
 <br/>
------
+---
 
 
 ## 5. 코드블럭(Code Blocks)
@@ -252,7 +252,7 @@ public static void main(String[] args) {
 
 <br/>
 <br/>
------
+---
 
 
 ## 6. 링크(Link)
@@ -296,7 +296,7 @@ public static void main(String[] args) {
 
 <br/>
 <br/>
------
+---
 
 
 
@@ -331,7 +331,7 @@ public static void main(String[] args) {
 
 <br/>
 <br/>
------
+---
 
 
 
