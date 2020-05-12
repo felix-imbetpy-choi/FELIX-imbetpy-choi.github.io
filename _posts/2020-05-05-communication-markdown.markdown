@@ -2,7 +2,7 @@
 layout: post
 title:  "[Markdown] 마크다운 한방에 정복하기-IMBETPY"
 subtitle:   "The Way to become a data scientist step by step"
-categories: communication
+categories: communication, dictionary
 tags: what is Markdown ? notion jekyll blog skill dictionary
 comments: true
 ---
