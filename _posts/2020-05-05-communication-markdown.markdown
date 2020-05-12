@@ -340,7 +340,7 @@ public static void main(String[] args) {
 ![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg "냐옹이")
   
 (유형2) 이미지 사이즈 조절  
-<img src="https://topclass.chosun.com/news_img/1807/1807_008.jpg" width="300" height="200"> 
+<img src="https://topclass.chosun.com/news_img/1807/1807_008.jpg" width="300" height="500"> 
 
 (유형3) 이미지 링크  
 [![이미지](https://topclass.chosun.com/news_img/1807/1807_008.jpg)](https://felix-imbetpy-choi.github.io/)  
