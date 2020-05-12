@@ -5,7 +5,7 @@ subtitle:   "The Way to become a data scientist step by step"
 categories: communication
 tags: what is Markdown ? notion jekyll blog skill dictionary
 comments: true
-header-img: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png  
+header-img: https://i0.wp.com/jnwhome.iptime.org/wordpress/wp-content/uploads/1/cfile25.uf.236D8D36568A660C1D2202.png?resize=672%2C372 
 ---
 ## 개요
 > `Markdown` 의 개념과 사용법을 정리 하였습니다.
