@@ -1,37 +1,26 @@
 ---
 layout: post
-title:  "[Git] 마크다운 한방에 정복하기-IMBETPY"
+title:  "[Git]-IMBETPY"
 subtitle:   "The Way to become a data scientist step by step"
 categories: developer
-tags: git 
+tags: version_control   
 comments: true
 ---
 ## 개요
-> `Markdown` 의 개념과 사용법을 정리 하였습니다.
+> `Git` 의 개념과 사용법을 정리 하였습니다.
 
  __목차__  
     - [마크다운이란](#마크다운이란)   
-    - [마크다운의 장점과 한계](#마크다운의-장점과-한계)  
-    - [작성법 - 1. 제목(header)](#1-제목header)  
-    - [작성법 - 2. 목록(List)](#2-목록list)  
-    - [작성법 - 3. 인용문(Quote)](#3-인용문quote)  
-    - [작성법 - 4. 폰트스타일 & 줄바꿈](#4-폰트스타일--줄바꿈)  
-    - [작성법 - 5. 코드블럭(Code Blocks)](#5-코드블럭code-blocks)  
-    - [작성법 - 6. 링크(Link)](#6-링크link)   
-    - [작성법 - 7. 이미지(Image)](#7-이미지image)   
-    - [작성법 - 8. 테이블(Table)](#8-테이블table)   
-    - [작성법 - 9. 이모지(Emoji)](#9-이모지emoji)   
-    - [마침](#마침)   
-    - [참고](#참고)   
+
 
 
 ---
 
-![이미지](https://steemitimages.com/DQmZoxt18AetawkUVcZX24CZbde9rgQ9gnX1xWFUXTqYAS5/I-love-Markdown.jpg )
+![이미지](https://media.vlpt.us/images/kks1342320/post/b5a9840f-973c-44ed-8ad5-19ba5a9c7889/cover-pic.jpeg )
 
-# 마크다운이란
-> `마크다운(markdown)` 은 읽기 쉽고, 쓰기 쉬운 텍스트 포맷을 사용하여 문서의 양식을 편집하는 문법이다. 이를 통해 작성된 문서는 쉽게 HTML 등 다른 문서 형태로 변환이 가능하다. 
-가장 대표적으로 github 에서 작성되는 Readme.md 가 마크다운으로 작성되며, md 가 마크다운의 확장자 이다.
+# Git 이란
+> `Git` 은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 `분산 버전 관리 시스템`이다. 소프트웨어 개발에서 소스 코드 관리에 주로 사용되지만 어떠한 집합의 파일의 변경사항을 지속적으로 추적하기 위해 사용될 수 있다.  
+>  < 위키백과 > 
 
 <br/>
 <br/>
@@ -39,7 +28,7 @@ comments: true
 ---
 
 
-# 마크다운의 장점과 한계
+# Git 왜 사용해야 하나?
 + ## 장점👍
     1. 문법이 간결하고, 특별한 도구 없이 작성이 가능하다.
     2. 텍스트 파일 형태로 관리가 쉽다. (버전관리 또한 가능)
@@ -64,9 +53,7 @@ comments: true
 ---
 
 
-# 📌 마크다운 작성법 
-
-# 1. 제목(Header)
+# 그럼 왜 CLI 를 사용하나?
 
 `h1` 부터 `h6` 까지 표현할 수 있으며, `#` 의 개수에 따라 제목의 크기(계층)을 지정합니다.  
 

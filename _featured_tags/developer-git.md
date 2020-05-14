@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Git
-slug: git
+title: Version control
+slug: version_control
 category: developer
 menu: false
 order: 1
