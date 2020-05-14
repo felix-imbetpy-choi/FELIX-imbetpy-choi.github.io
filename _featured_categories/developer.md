@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Computer Science
-slug: cs
+title: Developer
+slug: developer
 menu: true
 submenu: true
 order: 3
