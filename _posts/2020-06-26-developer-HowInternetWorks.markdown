@@ -2,7 +2,7 @@
 layout: post
 title:  "[Internet] 인터넷? 개념잡기 작동원리 -IMBETPY"
 subtitle:   "About Internet"
-categories: communication
+categories: internet
 tags: what is Markdown ? notion jekyll blog skill dictionary
 comments: true
 ---
