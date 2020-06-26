@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: IDE
-slug: ide
+title: Internet
+slug: internet
 category: developer
 menu: false
-order: 10
+order: 9
 ---
