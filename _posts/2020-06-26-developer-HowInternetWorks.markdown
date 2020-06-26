@@ -131,8 +131,8 @@ ISP는 모두 함께 연결되는 몇몇 특수한 라우터를 관리하고 다
 - <http://tcpschool.com/webbasic/intro>
 - <https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7>
 - <https://www.youtube.com/watch?v=o5yBl59wRbY>
-- https://www.youtube.com/watch?v=7_LPdttKXPc
-- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
-- https://velog.io/@exploit017/1.-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80
+- <https://www.youtube.com/watch?v=7_LPdttKXPc>
+- <https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work>
+- <https://velog.io/@exploit017/1.-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80>
 <br/>
 <br/>
