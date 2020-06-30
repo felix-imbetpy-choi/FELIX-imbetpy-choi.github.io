@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "[Internet] URL? 개념잡기-IMBETPY"
-subtitle:   "About Internet"
+subtitle:   "About URL"
 categories: internet
-tags: what is HTTP ?
+tags: what is URL in internet?
 comments: true
 ---
 ## 개요
-> `URL` 의 개념과 통신과정, 세부사항, 버전역사 등을 정리 하였습니다.
+> `URL` 의 개념과 문법을 정리 하였습니다.
 
 ---
 
