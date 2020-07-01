@@ -2,7 +2,7 @@
 layout: post
 title:  "[Internet] Domain Name? 개념잡기-IMBETPY"
 subtitle:   "About Domain"
-categories: developer
+categories: internet
 tags: what is Domain in internet?
 comments: true
 ---
