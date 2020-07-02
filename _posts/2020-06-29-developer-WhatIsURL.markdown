@@ -2,7 +2,7 @@
 layout: post
 title:  "[Internet] URL? 개념잡기-IMBETPY"
 subtitle:   "About URL"
-categories: developer
+categories: internet
 tags: what is URL in internet?
 comments: true
 ---
