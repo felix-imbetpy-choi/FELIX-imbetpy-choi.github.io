@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[Internet] HTTP? 개념잡기 통신과정 -IMBETPY"
-subtitle:   "About Internet"
-categories: internet
-tags: what is HTTP ?
+subtitle:   "About HTTP"
+categories: developer
+tags: internet what is HTTP ?
 comments: true
 ---
 ## 개요

@@ -2,7 +2,7 @@
 layout: post
 title:  "[Internet] DNS? 작동원리-IMBETPY"
 subtitle:   "About DNS"
-categories: internet
+categories: developer
 tags: what is DNS in internet?
 comments: true
 ---

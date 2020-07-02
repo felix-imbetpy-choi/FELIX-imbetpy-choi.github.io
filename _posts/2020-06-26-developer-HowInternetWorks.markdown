@@ -2,8 +2,8 @@
 layout: post
 title:  "[Internet] 인터넷? 개념잡기 작동원리 -IMBETPY"
 subtitle:   "About Internet"
-categories: internet
-tags: what is internet ?
+categories: developer
+tags: internet what is internet ?
 comments: true
 ---
 ## 개요
