@@ -9,15 +9,14 @@
 
 ## 🌎 Interest Skills  
 1. Full-stack Web Development  
-2. APP Development  
-3. Data analytics  
-4. Guitar Playing
-5. Song Writing 
+2. Data analytics  
+3. Guitar Playing
+4. Song Writing 
 
 
 ## ✍🏼 Available My Skills & Role
 * Back-end Development - JAVA, Spring Framework, PHP, SQL, Github, Docker  
-* Data analytics - R, Python  
+* Data analytics - R, Python
 
 
 ## 📕 About blog
