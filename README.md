@@ -9,9 +9,8 @@
 
 ## 🌎 Interest Skills  
 1. Full-stack Web Development  
-2. Data analytics  
-3. Guitar Playing
-4. Song Writing 
+2. Guitar Playing
+3. Song Writing 
 
 
 ## ✍🏼 Available My Skills & Role
